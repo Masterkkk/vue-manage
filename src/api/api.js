@@ -1,0 +1,1 @@
+export const base_url = 'http://cangdu.org:8001';

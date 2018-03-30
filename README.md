@@ -1,6 +1,9 @@
 # management
 
-> 管理系统
+> vue+vuex+vue-router完成的简易版管理系统
+使用了element-ui来进行页面的构建
+使用了vuex进行登录状态等信息管理
+使用了vue-router来进行路由处理，以及路由守卫来进行跳转前的权限判断
 
 ## Build Setup
 
